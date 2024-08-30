@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".switch_on">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:text="The history of Bangladesh dates back over four millennia to the Chalcolithic period. The region's early history was characterized by a succession of Hindu and Buddhist kingdoms and empires that fought for control over the Bengal region. Islam arrived in the 8th century and gradually became dominant from the early 13th century with the conquests led by Bakhtiyar Khalji and the activities of Sunni missionaries like Shah Jalal. Muslim rulers promoted the spread of Islam by building mosques across the region. From the 14th century onward, Bengal was ruled by the Bengal Sultanate, founded by Fakhruddin Mubarak Shah, who established an individual currency. The Bengal Sultanate expanded under rulers like Shamsuddin Ilyas Shah, leading to economic prosperity and military dominance, with Bengal being referred to by Europeans as the richest country to trade with. The region later became a part of the Mughal Empire, and according to historian C. A. Bayly, it was probably the empire's wealthiest province."
+            android:textSize="25sp" />
+
+    </ScrollView>
+
+
+</LinearLayout>
+
+
+
